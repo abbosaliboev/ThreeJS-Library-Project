@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- JavaScript tutorial -->
+    <form name="myform" action="https://www.google.com/search" onsubmit="return alertForm()" method="GET">
+        <input name="q" type="text">
+        <input type="submit" value="Search">
+    </form>
+    <script>
+        function alertForm(){
+            let x = document.forms["myform"]["q"].value;
+            if(x === ""){
+                alert("공백허용안함");
+                return false;
+            }
+            return true;
+        }
+    </script>
+
+</body>
+</html>
