@@ -2,6 +2,7 @@
 
 This repository showcases an interactive 3D project created as part of the **Computer Graphics course** at Chungbuk National University. It demonstrates the application of advanced rendering and interactivity techniques using **Three.js**.
 
+<img src="./ThreeJS-Library-Project/images/cbnu_logo2.png" alt="cbnu logo" height="100">
 ---
 
 ## 🌟 About Three.js
