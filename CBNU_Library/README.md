@@ -48,30 +48,44 @@ This project visualizes a detailed 3D model of the **Chungbuk National Universit
 - **Buttons**: Start/stop the controllable vehicle using the "Car Drive" button.
 
 ## Project Gallery
+
 ### Exterior View
 _Description: Showcase of the library's exterior, including trees, grass, and building textures._
-<img src="./Screenshots/Capture2.PNG" alt="Screenshot" width="400">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="./Screenshots/Capture1.PNG" alt="Screenshot" width="400">
+  <img src="./Screenshots/Capture2.PNG" alt="Screenshot" width="400">
+</div>
 
 ### Interior Design
 _Description: View of the desks, chairs, and lighting within the library._
-<img src="./Screenshots/Capture6.PNG" alt="Screenshot" width="400">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="./Screenshots/Capture6.PNG" alt="Screenshot" width="400">
+  <img src="./Screenshots/Capture4.PNG" alt="Screenshot" width="400">
+</div>
 
 ### Smoking Zone
 _Description: Smoking zone setup with detailed elements._
-<img src="./Screenshots/Capture5.PNG" alt="Screenshot" width="400">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="./Screenshots/Capture5.PNG" alt="Screenshot" width="400">
+</div>
 
 ### Parking Area
 _Description: Dedicated parking space with animated vehicles._
-<img src="./Screenshots/Capture3.PNG" alt="Screenshot" width="400">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="./Screenshots/Capture3.PNG" alt="Screenshot" width="400">
+</div>
 
 ### Rooftop Features
 _Description: Solar panels and antenna on the library's rooftop._
-<img src="./Screenshots/Capture7.PNG" alt="Screenshot" width="400">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="./Screenshots/Capture7.PNG" alt="Screenshot" width="400">
+</div>
 
 ## Credits
 - **3D Models**: Created with GLTFLoader and custom designs.
 - **Textures**: Custom textures for building, grass, and other elements.
 - **Development**: Abbos Aliboev
+
 
 ## License
 This project is licensed under the MIT License.
