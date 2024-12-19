@@ -50,7 +50,7 @@ This project visualizes a detailed 3D model of the **Chungbuk National Universit
 ## Project Gallery
 ### Exterior View
 _Description: Showcase of the library's exterior, including trees, grass, and building textures._
-![Exterior View](https://raw.githubusercontent.com/abbosaliboev/ThreeJS-Library-Project/CBNU_Library/Screenshots/Capture1.png)
+<img src="./Screenshot/Capture1.png" alt="Screenshot" width="400">
 
 
 ### Interior Design
