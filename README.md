@@ -39,6 +39,4 @@ This project is licensed under the MIT License.
 ---
 
 🎉 Feel free to explore and modify the code to suit your needs!
-```
 
-Ushbu README minimal bo‘lsa-da, Three.js loyihangiz haqida barcha kerakli ma’lumotlarni taqdim etadi. Istasangiz, qo‘shimcha bo‘limlar qo‘shishingiz mumkin, masalan, ekran tasvirlari yoki kelajakdagi rejalaringiz.
