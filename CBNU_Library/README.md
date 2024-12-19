@@ -82,7 +82,7 @@ _Description: Solar panels and antenna on the library's rooftop._
 </div>
 
 ## Credits
-- **3D Models**: Created with GLTFLoader and custom designs.
+- **3D Models**: Created with GLTFLoader and custom designs. ThreeJS
 - **Textures**: Custom textures for building, grass, and other elements.
 - **Development**: Abbos Aliboev
 
@@ -91,5 +91,3 @@ _Description: Solar panels and antenna on the library's rooftop._
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to explore the interactive environment and contribute to the project!
