@@ -1,20 +1,35 @@
-# 3D Library Visualization with Three.js
+# 🎓 Three.js Project Overview
 
-This project showcases an interactive 3D visualization of a library using the **Three.js** library. It includes external and internal designs, animated elements, and navigation controls for an engaging experience.
+This repository showcases an interactive 3D project created as part of the **Computer Graphics course** at Chungbuk National University. It demonstrates the application of advanced rendering and interactivity techniques using **Three.js**.
 
-## 🌟 Features
-- Realistic 3D model of the library building.
-- Interactive navigation with mouse and keyboard.
-- Dynamic animations for vehicles and objects.
-- Functional lighting and detailed textures.
+---
 
-## 🚀 Technologies Used
-- **Three.js**: For 3D rendering and animations.
+## 🌟 About Three.js
+Three.js is a powerful JavaScript library that simplifies creating and displaying animated 3D graphics in a web browser using WebGL. Applications include:
+- 🌌 3D visualizations
+- 🎮 Games and simulations
+- ✨ Interactive animations
+
+---
+
+## 🚀 Key Features
+- **Real-time Rendering**: High-performance 3D graphics.
+- **🎥 Camera Controls**: Intuitive navigation with mouse and keyboard.
+- **✨ Animations**: Dynamic and interactive objects.
+- **💡 Lighting and Shadows**: Enhanced scene realism.
+- **📦 Model Loading**: Support for GLTF, OBJ, and other 3D models.
+
+---
+
+## 🛠 Technologies Used
+- **Three.js**: For 3D graphics and rendering.
+- **JavaScript**: Core logic for interactions and animations.
 - **GLTFLoader**: To load and display 3D models.
-- **JavaScript**: For interactivity and animations.
-- **HTML/CSS**: For the interface.
+- **HTML/CSS**: For structuring and styling the interface.
 
-## 🛠 How to Run
+---
+
+## 🖥 How to Run
 1. Clone the repository:
    ```bash
    git clone <repository-url>
@@ -23,20 +38,23 @@ This project showcases an interactive 3D visualization of a library using the **
    ```bash
    cd <project-folder>
    ```
-3. Open the `index.html` file in a browser or serve it using a local server:
+3. Open `index.html` in your browser or serve it using:
    ```bash
    python -m http.server
    ```
-4. Explore the 3D environment!
 
-## 🎮 Controls
-- **Camera Movement**: Use the mouse to rotate and zoom.
-- **Keyboard Navigation**: Drive the car with Arrow keys (`↑`, `←`, `↓`, `→`).
+---
+
+## ✨ Highlights of the Project
+- 🏛 Custom 3D scenes with realistic textures.
+- 🔄 Fully interactive objects and animations.
+- 📈 Adaptable and scalable codebase for future projects.
+
+---
 
 ## 📜 License
 This project is licensed under the MIT License.
 
 ---
 
-🎉 Feel free to explore and modify the code to suit your needs!
-
+🎉 Experiment, customize, and bring your ideas to life with Three.js!
