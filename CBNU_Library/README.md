@@ -50,12 +50,10 @@ This project visualizes a detailed 3D model of the **Chungbuk National Universit
 ## Project Gallery
 ### Exterior View
 _Description: Showcase of the library's exterior, including trees, grass, and building textures._
-<img src="./Screenshots/Capture1.PNG" alt="Screenshot" width="400">
 <img src="./Screenshots/Capture2.PNG" alt="Screenshot" width="400">
 
 ### Interior Design
 _Description: View of the desks, chairs, and lighting within the library._
-<img src="./Screenshots/Capture4.PNG" alt="Screenshot" width="400">
 <img src="./Screenshots/Capture6.PNG" alt="Screenshot" width="400">
 
 ### Smoking Zone
