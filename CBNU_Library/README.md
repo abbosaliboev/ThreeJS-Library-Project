@@ -1,6 +1,6 @@
 # 3D Chungbuk National University Library
 
-<img src="./images/cbnu_logo2.png" alt="cbnu logo" height="200px">
+<img src="./images/cbnu_logo2.png" alt="cbnu logo" height="200">
 
 This project presents a stunning 3D visualization of the **Chungbuk National University (CBNU) Library**, crafted using the powerful Three.js library. Dive into an interactive 3D environment that meticulously showcases the library's exterior and interior details, along with surrounding elements and engaging features.
 
