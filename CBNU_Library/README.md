@@ -1,37 +1,46 @@
 # 3D Chungbuk National University Library
 
-This project visualizes a detailed 3D model of the **Chungbuk National University (CBNU) Library**, designed using the Three.js library. It features an interactive 3D environment that includes the external library building, interior details, surrounding elements, and additional animated and interactive features.
+![CBNU Logo](./Images/cbnu_logo.png)
 
-## Features
+This project presents a stunning 3D visualization of the **Chungbuk National University (CBNU) Library**, crafted using the powerful Three.js library. Dive into an interactive 3D environment that meticulously showcases the library's exterior and interior details, along with surrounding elements and engaging features.
 
-### Library Exterior
-- **Building Architecture**: Realistic design of the library with textures for walls, windows, and doors.
-- **Solar Panels**: Functional solar panel designs on the roof.
-- **Antenna**: Communication antenna with a realistic design.
-- **Surrounding Trees and Grass**: Varied tree designs and textured grass areas.
-- **Smoking Zone**: A dedicated smoking area with detailed textures and objects.
+---
 
-### Library Interior
-- **Desks and Chairs**: Detailed desks and chairs for students, including collaborative spaces.
-- **Lighting**: Functional lights to enhance visibility and ambiance.
-- **Rooms**: Separate rooms for group meetings and individual studies.
+## 🌟 Features
 
-### Additional Features
-- **Vehicles**: 
-  - One animated vehicle moving along a predefined path.
-  - One controllable vehicle using keyboard inputs (W, A, S, D keys).
-- **Parking Area**: Dedicated parking zone with textures.
-- **Interactive Navigation**: Camera controls for free exploration of the environment.
-- **Realistic Materials**: High-quality materials for buildings, furniture, and outdoor elements.
+### 🏛 Library Exterior
+- **Building Architecture**: Realistic representation with lifelike textures for walls, windows, and doors.
+- **Solar Panels**: Functional solar panels adorning the roof.
+- **Antenna**: Communication antenna with an intricate design.
+- **Surrounding Nature**: Beautifully crafted trees and textured grass areas.
+- **🚬 Smoking Zone**: A dedicated area with detailed objects and textures.
 
-## Key Technologies
-- **Three.js**: 3D rendering and animation.
-- **GLTFLoader**: Loading and displaying 3D models.
-- **Texture Mapping**: Using textures for realism.
-- **Custom Animations**: Smooth vehicle and smoke animations.
-- **Lighting Effects**: Directional, ambient, and point lights for a dynamic scene.
+### 📚 Library Interior
+- **Desks and Chairs**: Intricately designed study desks and chairs, including collaborative spaces.
+- **Ambient Lighting**: Functional lights to set the mood and enhance visibility.
+- **Study Rooms**: Separate rooms for group discussions and individual studies.
 
-## How to Use
+### 🚗 Additional Features
+- **Vehicles**:  
+  - One animated vehicle moving along a predefined path.  
+  - A controllable vehicle operated with keyboard inputs (Arrow keys: `↑`, `←`, `↓`, `→`).
+- **Parking Area**: A dedicated parking zone with realistic textures.
+- **Interactive Navigation**: Full camera control for immersive exploration.
+- **High-Quality Materials**: Enhanced realism through premium textures and materials.
+
+---
+
+## 🛠 Key Technologies
+- **Three.js**: For 3D rendering and animations.
+- **GLTFLoader**: Loading and rendering complex 3D models.
+- **Texture Mapping**: Lifelike textures for surfaces.
+- **Custom Animations**: Smooth animations for vehicles and other dynamic elements.
+- **Lighting Effects**: Directional, ambient, and point lights for a vibrant environment.
+
+---
+
+## 📋 How to Use
+
 1. Clone the repository:
    ```bash
    git clone <repository-url>
@@ -40,54 +49,64 @@ This project visualizes a detailed 3D model of the **Chungbuk National Universit
    ```bash
    cd cbnu-library
    ```
-3. Open the `index.html` file in a browser to view the 3D environment.
+3. Open the `index.html` file in your browser to explore the 3D environment.
 
-## Controls
+---
+
+## 🎮 Controls
 - **Camera**: Use the mouse and scroll to navigate around the scene.
-- **Controllable Vehicle**: Use `W`, `A`, `S`, `D` keys to move the vehicle.
-- **Buttons**: Start/stop the controllable vehicle using the "Car Drive" button.
+- **Vehicle Control**: Use Arrow keys (`↑`, `←`, `↓`, `→`) to drive the controllable vehicle.
+- **Buttons**: Start or stop the vehicle with the "Car Drive" button.
 
-## Project Gallery
+---
 
-### Exterior View
-_Description: Showcase of the library's exterior, including trees, grass, and building textures._
+## 🖼 Project Gallery
+
+### 🏞 Exterior View
+_Showcase of the library's exterior, including surrounding trees, grass, and architectural details._
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="./Screenshots/Capture1.PNG" alt="Screenshot" width="400" height="200" >
-  <img src="./Screenshots/Capture2.PNG" alt="Screenshot" width="400" height="200" style="object-fit: cover;">
+  <img src="./Screenshots/Capture1.PNG" alt="Exterior View 1" width="400">
+  <img src="./Screenshots/Capture2.PNG" alt="Exterior View 2" width="400">
 </div>
 
-### Interior Design
-_Description: View of the desks, chairs, and lighting within the library._
+### 🏠 Interior Design
+_A glimpse of the library's interior with desks, chairs, and ambient lighting._
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="./Screenshots/Capture6.PNG" alt="Screenshot" width="400">
-  <img src="./Screenshots/Capture4.PNG" alt="Screenshot" width="400">
+  <img src="./Screenshots/Capture6.PNG" alt="Interior View 1" width="400">
+  <img src="./Screenshots/Capture4.PNG" alt="Interior View 2" width="400">
 </div>
 
-### Smoking Zone
-_Description: Smoking zone setup with detailed elements._
+### 🚬 Smoking Zone
+_Detailed view of the designated smoking area._
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="./Screenshots/Capture5.PNG" alt="Screenshot" width="400">
+  <img src="./Screenshots/Capture5.PNG" alt="Smoking Zone" width="400">
 </div>
 
-### Parking Area
-_Description: Dedicated parking space with animated vehicles._
+### 🅿️ Parking Area
+_A look at the parking area featuring vehicles and textures._
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="./Screenshots/Capture3.PNG" alt="Screenshot" width="400">
+  <img src="./Screenshots/Capture3.PNG" alt="Parking Area" width="400">
 </div>
 
-### Rooftop Features
-_Description: Solar panels and antenna on the library's rooftop._
+### 🌞 Rooftop Features
+_Explore the rooftop with solar panels and an antenna._
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="./Screenshots/Capture7.PNG" alt="Screenshot" width="400">
+  <img src="./Screenshots/Capture7.PNG" alt="Rooftop View" width="400">
 </div>
 
-## Credits
-- **3D Models**: Created with GLTFLoader and custom designs. ThreeJS
-- **Textures**: Custom textures for building, grass, and other elements.
+---
+
+## 💡 Credits
+- **3D Models**: Crafted using GLTFLoader and custom designs.
+- **Textures**: Custom-designed textures for architecture and environment.
 - **Development**: Abbos Aliboev
 
+---
 
-## License
+## 📜 License
 This project is licensed under the MIT License.
 
 ---
+
+🎉 Explore the immersive world of CBNU Library and enjoy the interactive experience!
+
