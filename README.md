@@ -4,6 +4,14 @@ This repository showcases an interactive 3D project created as part of the **Com
 
 <img src="./CBNU_Library/images/cbnu_logo2.png" alt="cbnu logo" height="50">
 
+
+## 🖼️ Screenshots
+
+Here are some visual previews of the project in action:
+
+<img src="./CBNU_Library/screenshots/scene-overview.png" alt="Scene Overview" width="100%">
+
+
 ## 🌟 About Three.js
 Three.js is a powerful JavaScript library that simplifies creating and displaying animated 3D graphics in a web browser using WebGL. Applications include:
 - 🌌 3D visualizations
