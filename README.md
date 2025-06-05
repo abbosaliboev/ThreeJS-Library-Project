@@ -9,7 +9,14 @@ This repository showcases an interactive 3D project created as part of the **Com
 
 Here are some visual previews of the project in action:
 
-<img src="./CBNU_Library/screenshots/scene-overview.png" alt="Scene Overview" width="100%">
+<img src="./CBNU_Library/Screenshots/Capture1.png" alt="Scene Overview" width="100%">
+<img src="./CBNU_Library/Screenshots/Capture2.png" alt="Scene Overview" width="100%">
+<img src="./CBNU_Library/Screenshots/Capture3.png" alt="Scene Overview" width="100%">
+<img src="./CBNU_Library/Screenshots/Capture4.png" alt="Scene Overview" width="100%">
+<img src="./CBNU_Library/Screenshots/Capture5.png" alt="Scene Overview" width="100%">
+<img src="./CBNU_Library/Screenshots/Capture6.png" alt="Scene Overview" width="100%">
+<img src="./CBNU_Library/Screenshots/Capture7.png" alt="Scene Overview" width="100%">
+
 
 
 ## 🌟 About Three.js
